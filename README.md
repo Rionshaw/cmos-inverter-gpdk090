@@ -41,4 +41,4 @@ This complementary behavior ensures <b>Low Static Power Consumption<b>.<br>
 ![Schematic of CMOS Inverter](https://github.com/Rionshaw/cmos-inverter-gpdk090/blob/c4cf65469381b9b8f16f16526f3a0ae553a3ab93/Screenshot-1.png)
 
 ## Layout
-![Layout of CMOS Inverter]
+![Layout of CMOS Inverter](https://github.com/Rionshaw/cmos-inverter-gpdk090/blob/b66f2db9a19674d30903651d49884bc80d665208/Screenshot-7.png)

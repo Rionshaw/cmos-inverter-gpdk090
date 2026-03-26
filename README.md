@@ -13,7 +13,6 @@ CMOS inverter implemented in gpdk090 technology with full design flow: schematic
     </ul>
   </li>
 </ul>
-<br>
 ## Tools and Technology<br>
 <ul>
 <li>Cadence Virtuoso (Schematic Editor, Layout Suite).</li>

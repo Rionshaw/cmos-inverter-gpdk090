@@ -32,7 +32,7 @@ NMOS transistor (pull-down network)<br>
 
 Operation - <br>
 <ul>
-<p>Vin = 0 → PMOS ON,        NMOS OFF → Vout = VDD.</p><br>
-<p>Vin = VDD → PMOS OFF,     NMOS ON → Vout = 0.</p><br>
+<p>Vin = 0 → PMOS ON,        NMOS OFF → Vout = VDD.</p>
+<p>Vin = VDD → PMOS OFF,     NMOS ON → Vout = 0.</p>
 </ul>
 This complementary behavior ensures <b>Low Static Power Consumption<b>.<br>

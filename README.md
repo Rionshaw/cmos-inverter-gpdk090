@@ -22,3 +22,9 @@ CMOS inverter implemented in gpdk090 technology with full design flow: schematic
 <li>Technology Library - gpdk090.</li>
 </ul>
 
+## Circuit Description
+
+The CMOS inverter consists of - <br>
+<br>
+PMOS transistor (pull-up network)<br>
+NMOS transistor (pull-down network)<br>

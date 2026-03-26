@@ -29,10 +29,9 @@ The CMOS inverter consists of - <br>
 PMOS transistor (pull-up network)<br>
 NMOS transistor (pull-down network)<br>
 </ul>
-Operation -
+Operation - <br>
 <ul>
-<br>
-Vin = 0 → PMOS ON,        NMOS OFF → Vout = VDD <br>
-Vin = VDD → PMOS OFF,     NMOS ON → Vout = 0<br>
+<p>Vin = 0 → PMOS ON,        NMOS OFF → Vout = VDD.</p>p <br>
+<p>Vin = VDD → PMOS OFF,     NMOS ON → Vout = 0.</p>p<br>
 </ul>
 This complementary behavior ensures <b>Low Static Power Consumption<b>.<br>

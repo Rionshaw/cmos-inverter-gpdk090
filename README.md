@@ -1,6 +1,6 @@
 # cmos-inverter-gpdk090
 CMOS inverter implemented in gpdk090 technology with full design flow: schematic, layout, DC and Transient simulation, delay and power analysis using Cadence Virtuoso.<br>
-## Objectives<br>
+## Objectives
 <ul>
   <li>Design a CMOS inverter using gpdk090 technology.</li>
   <li>Perform schematic and layout design in Cadence Virtuoso.</li>
@@ -13,7 +13,7 @@ CMOS inverter implemented in gpdk090 technology with full design flow: schematic
     </ul>
   </li>
 </ul>
-## Tools and Technology<br>
+## Tools and Technology
 <ul>
 <li>Cadence Virtuoso (Schematic Editor, Layout Suite).</li>
 <li>ADE L / ADE XL.</li>

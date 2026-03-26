@@ -36,3 +36,6 @@ Operation - <br>
 <p>Vin = VDD → PMOS OFF,     NMOS ON → Vout = 0.</p>
 </ul>
 This complementary behavior ensures <b>Low Static Power Consumption<b>.<br>
+
+## Schematic
+![Alt text](image_url)

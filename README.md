@@ -30,7 +30,6 @@ PMOS transistor (pull-up network)<br>
 NMOS transistor (pull-down network)<br>
 </ul>
 Operation -
-<br>
 <ul>
 <br>
 Vin = 0 → PMOS ON,        NMOS OFF → Vout = VDD <br>

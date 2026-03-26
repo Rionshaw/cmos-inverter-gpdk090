@@ -19,3 +19,8 @@ CMOS inverter implemented in gpdk090 technology with full design flow: schematic
 <li>ADE L / ADE XL.</li>
 <li>Technology Library - gpdk090.</li>
 </ul>
+## Tools and Technology
+
+- Cadence Virtuoso (Schematic Editor, Layout Suite)
+- ADE L / ADE XL
+- Technology Library: gpdk090

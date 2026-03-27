@@ -43,12 +43,31 @@ This complementary behavior ensures <b>Low Static Power Consumption<b>.<br>
 ## Layout
 ![Layout of CMOS Inverter](https://github.com/Rionshaw/cmos-inverter-gpdk090/blob/b66f2db9a19674d30903651d49884bc80d665208/Screenshot-7.png)
 
-<h4>🧱 Layout Features</h4>
+<h3> Layout Features</h3>
 
 <ul>
-  <li><b>N-well (PMOS region):</b> Provides body biasing and isolation for PMOS operation</li>
-  <li><b>Polysilicon gate:</b> Forms the control terminal for channel switching</li>
-  <li><b>Metal interconnects:</b> Used for routing signals and power with low resistance</li>
-  <li><b>VDD/VSS rails:</b> Ensure stable power supply and ground distribution</li>
-  <li><b>Source/Drain contacts:</b> Enable reliable connection between diffusion and metal layers</li>
+  <li><b>N-well (PMOS region) -</b> Provides body biasing and isolation for PMOS operation</li>
+  <li><b>Polysilicon gate -</b> Forms the control terminal for channel switching</li>
+  <li><b>Metal interconnects -</b> Used for routing signals and power with low resistance</li>
+  <li><b>VDD/VSS rails -</b> Ensure stable power supply and ground distribution</li>
+  <li><b>Source/Drain contacts -</b> Enable reliable connection between diffusion and metal layers</li>
+</ul>
+
+ ## Simulation Setup
+
+<h3>🔹 Transient Analysis</h3>
+<ul>
+  <li><b>Input Signal -</b> Pulse waveform applied at Vin</li>
+  <li><b>Supply Voltage (VDD) -</b> 1.2V / 1.8V</li>
+  <li><b>Rise/Fall Time -</b> Defined to observe realistic switching behavior</li>
+  <li><b>Simulation Time -</b> ~200 ns to capture multiple switching cycles</li>
+  <li><b>Objective -</b> Analyze dynamic response, switching characteristics, and propagation delay (tpdr, tpdf)</li>
+</ul>
+
+<h3>🔹 DC Analysis</h3>
+<ul>
+  <li><b>Input Sweep -</b> Vin varied from 0 to VDD</li>
+  <li><b>Output Measurement -</b> Vout recorded for each Vin</li>
+  <li><b>Result -</b> Voltage Transfer Characteristic (VTC) curve (Vout vs Vin)</li>
+  <li><b>Objective -</b> Evaluate switching threshold, gain, and noise margin</li>
 </ul>

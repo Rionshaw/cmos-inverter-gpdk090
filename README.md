@@ -54,7 +54,7 @@ This complementary behavior ensures <b>Low Static Power Consumption<b>.<br>
   <li><b>Source/Drain contacts -</b> Enable reliable connection between diffusion and metal layers</li>
 </ul>
 ## Testbench
-<img src="https://github.com/Rionshaw/cmos-inverter-gpdk090/blob/41f81c6d790203dfd9067a6357fab0b92c8d25ab/Screenshot-8.png" alt="Testbench">
+<img src="https://github.com/Rionshaw/cmos-inverter-gpdk090/blob/d01e36e327b933801972bb87e720dc1de9ae7c37/Screenshot-11.png" alt="Testbench">
  ## Simulation Setup
 
 <h3>🔹 Transient Analysis</h3>

@@ -1,5 +1,6 @@
 # cmos-inverter-gpdk090
-CMOS inverter implemented in gpdk090 technology with full design flow: schematic, layout, DC and Transient simulation, delay and power analysis using Cadence Virtuoso.<br>
+<p style="text-align: justify;">
+CMOS inverter implemented in gpdk090 technology with full design flow: schematic, layout, DC and Transient simulation, delay and power analysis using Cadence Virtuoso.</p>p<br>
 ## Objectives
 <ul>
   <li>Design a CMOS inverter using gpdk090 technology.</li>
@@ -90,3 +91,15 @@ which represents the relationship between input voltage (Vin) and output voltage
 This curve is used to analyze switching threshold, gain, and noise margins.
 </p>
 <img src="https://github.com/Rionshaw/cmos-inverter-gpdk090/blob/49e1fb7ab873df115df0fef4dcf0e3a5c4e42bf8/Screenshot-13.png" alt="VTC Curve">
+
+ ## Propagation Delay
+
+<p style="text-align: justify;">
+Propagation delay is measured at the 50% voltage levels of the input (Vin) and output (Vout) waveforms. 
+It represents the time required for the output to respond to a change in the input signal.
+</p>
+<img src="https://github.com/Rionshaw/cmos-inverter-gpdk090/blob/49e1fb7ab873df115df0fef4dcf0e3a5c4e42bf8/Screenshot-13.png" alt="Propagation Delay">
+<ul>
+  <li><b>tpdr (rise delay):</b> 22.21 ps</li>
+  <li><b>tpdf (fall delay):</b> 10.34 ps</li>
+</ul>

@@ -98,7 +98,7 @@ This curve is used to analyze switching threshold, gain, and noise margins.
 Propagation delay is measured at the 50% voltage levels of the input (Vin) and output (Vout) waveforms. 
 It represents the time required for the output to respond to a change in the input signal.
 </p>
-<img src="https://github.com/Rionshaw/cmos-inverter-gpdk090/blob/49e1fb7ab873df115df0fef4dcf0e3a5c4e42bf8/Screenshot-13.png" alt="Propagation Delay">
+<img src="https://github.com/Rionshaw/cmos-inverter-gpdk090/blob/41f81c6d790203dfd9067a6357fab0b92c8d25ab/Screenshot-8.png" alt="Propagation Delay">
 <ul>
   <li><b>tpdr (rise delay):</b> 22.21 ps</li>
   <li><b>tpdf (fall delay):</b> 10.34 ps</li>

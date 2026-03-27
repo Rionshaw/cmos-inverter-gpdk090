@@ -53,8 +53,10 @@ This complementary behavior ensures <b>Low Static Power Consumption<b>.<br>
   <li><b>VDD/VSS rails -</b> Ensure stable power supply and ground distribution</li>
   <li><b>Source/Drain contacts -</b> Enable reliable connection between diffusion and metal layers</li>
 </ul>
+
 ## Testbench
 <img src="https://github.com/Rionshaw/cmos-inverter-gpdk090/blob/d01e36e327b933801972bb87e720dc1de9ae7c37/Screenshot-11.png" alt="Testbench">
+
  ## Simulation Setup
 
 <h3>🔹 Transient Analysis</h3>

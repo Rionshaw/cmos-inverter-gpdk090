@@ -80,7 +80,8 @@ The transient analysis shows the dynamic switching behavior of the CMOS inverter
 The output (Vout) transitions between logic levels in response to the input pulse (Vin),
 allowing evaluation of switching characteristics and propagation delay.
 </p>
-<img src="[docs/transient.png](https://github.com/Rionshaw/cmos-inverter-gpdk090/blob/bf3653e3debf6f5d914466718e5231e553d66ca0/Screenshot-9.png)" alt="Transient Response" width="500">
+
+<img src="https://github.com/Rionshaw/cmos-inverter-gpdk090/blob/bf3653e3debf6f5d914466718e5231e553d66ca0/Screenshot-9.png" alt="Transient Response" width="500">
 
 <h3>🔹 DC Response (VTC)</h3>
 <p>
@@ -88,4 +89,4 @@ The DC sweep generates the Voltage Transfer Characteristic (VTC) curve,
 which represents the relationship between input voltage (Vin) and output voltage (Vout).
 This curve is used to analyze switching threshold, gain, and noise margins.
 </p>
-<img src="docs/dc_curve.png" alt="VTC Curve" width="500">
+<img src="https://github.com/Rionshaw/cmos-inverter-gpdk090/blob/49e1fb7ab873df115df0fef4dcf0e3a5c4e42bf8/Screenshot-13.png" alt="VTC Curve" width="500">

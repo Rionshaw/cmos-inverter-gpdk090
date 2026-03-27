@@ -42,3 +42,13 @@ This complementary behavior ensures <b>Low Static Power Consumption<b>.<br>
 
 ## Layout
 ![Layout of CMOS Inverter](https://github.com/Rionshaw/cmos-inverter-gpdk090/blob/b66f2db9a19674d30903651d49884bc80d665208/Screenshot-7.png)
+
+<h4>🧱 Layout Features</h4>
+
+<ul>
+  <li><b>N-well (PMOS region):</b> Provides body biasing and isolation for PMOS operation</li>
+  <li><b>Polysilicon gate:</b> Forms the control terminal for channel switching</li>
+  <li><b>Metal interconnects:</b> Used for routing signals and power with low resistance</li>
+  <li><b>VDD/VSS rails:</b> Ensure stable power supply and ground distribution</li>
+  <li><b>Source/Drain contacts:</b> Enable reliable connection between diffusion and metal layers</li>
+</ul>

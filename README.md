@@ -75,7 +75,7 @@ This complementary behavior ensures <b>Low Static Power Consumption<b>.<br>
 ## Results
 
 <h3>🔹 Transient Response</h3>
-<p>
+<p style="text-align: justify;">
 The transient analysis shows the dynamic switching behavior of the CMOS inverter.
 The output (Vout) transitions between logic levels in response to the input pulse (Vin),
 allowing evaluation of switching characteristics and propagation delay.

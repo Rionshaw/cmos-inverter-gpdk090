@@ -71,3 +71,21 @@ This complementary behavior ensures <b>Low Static Power Consumption<b>.<br>
   <li><b>Result -</b> Voltage Transfer Characteristic (VTC) curve (Vout vs Vin)</li>
   <li><b>Objective -</b> Evaluate switching threshold, gain, and noise margin</li>
 </ul>
+
+## Results
+
+<h3>🔹 Transient Response</h3>
+<p>
+The transient analysis shows the dynamic switching behavior of the CMOS inverter.
+The output (Vout) transitions between logic levels in response to the input pulse (Vin),
+allowing evaluation of switching characteristics and propagation delay.
+</p>
+<img src="docs/transient.png" alt="Transient Response" width="500">
+
+<h3>🔹 DC Response (VTC)</h3>
+<p>
+The DC sweep generates the Voltage Transfer Characteristic (VTC) curve,
+which represents the relationship between input voltage (Vin) and output voltage (Vout).
+This curve is used to analyze switching threshold, gain, and noise margins.
+</p>
+<img src="docs/dc_curve.png" alt="VTC Curve" width="500">

@@ -80,7 +80,7 @@ The transient analysis shows the dynamic switching behavior of the CMOS inverter
 The output (Vout) transitions between logic levels in response to the input pulse (Vin),
 allowing evaluation of switching characteristics and propagation delay.
 </p>
-<img src="docs/transient.png" alt="Transient Response" width="500">
+<img src="[docs/transient.png](https://github.com/Rionshaw/cmos-inverter-gpdk090/blob/bf3653e3debf6f5d914466718e5231e553d66ca0/Screenshot-9.png)" alt="Transient Response" width="500">
 
 <h3>🔹 DC Response (VTC)</h3>
 <p>

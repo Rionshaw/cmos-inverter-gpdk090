@@ -103,6 +103,7 @@ It represents the time required for the output to respond to a change in the inp
 </p>
 <img src="https://github.com/Rionshaw/cmos-inverter-gpdk090/blob/41f81c6d790203dfd9067a6357fab0b92c8d25ab/Screenshot-8.png" alt="Propagation Delay">
 <ul>
-  <li><b>tpdr (rise delay):</b> 22.21 ps</li>
-  <li><b>tpdf (fall delay):</b> 10.34 ps</li>
+  <li><b>tpdr (rise delay)=</b> 22.21 ps</li>
+  <li><b>tpdf (fall delay)=</b> 10.34 ps</li>
+  <li><b>Propagation Dely = (22.21+10.34)/2 = 16.275 ps<b></li>
 </ul>
